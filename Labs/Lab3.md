@@ -11,21 +11,21 @@ Please follow these directions to create the jobs and we will take a look at the
 
 1. Go to the Management tab.
 
-<img src="/Labs/images/management.png" width="400">
+<img src="/Labs/images/management.png" width="300">
 
 2. Select on License Management on the left
 3. Click on the Start trial button and confirm in the popup dialog.
 4. Select on Machine Learning on the left panel
 
-<img src="/Labs/images/ML.png" width="400">
+<img src="/Labs/images/ML.png" width="300">
 
 5. Click on Create new job button
 
-<img src="/Labs/images/createnewjob.png" width="500">
+<img src="/Labs/images/createnewjob.png" width="600">
 
 6. Select on filebeat-*
 
-<img src="/Labs/images/filebeat.png" width="600">
+<img src="/Labs/images/filebeat.png" width="800">
 
 7. Select Nginx Access Log
 

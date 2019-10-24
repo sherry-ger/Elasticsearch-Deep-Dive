@@ -113,4 +113,4 @@ Let's take a look at what we have done so far.
 ![dashboards2](/Labs/images/dashboard2.png)
 
 
-
+This completes Lab1!

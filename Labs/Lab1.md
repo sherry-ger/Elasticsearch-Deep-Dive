@@ -112,5 +112,17 @@ Let's take a look at what we have done so far.
 10. Be sure to change the date to last 1 year.
 ![dashboards2](/Labs/images/dashboard2.png)
 
+### Infra and Log UI
+
+Within Kibana, there are two plugins that are dedicated to Infra and Logs.  
+
+1. Click on Infrastructure icon to go to the Infra UI.
+
+![InfraUI](/Labs/images/InfraUI.png)
+
+2. Click on the host to bring up the pop up menu
+![infraUI1](/Labs/images/infraUI1.png)
+
+3. Click on Logs to go to the Logs UI or Metric to go to the Metric UI
 
 This completes Lab1!

@@ -14,11 +14,21 @@ We will be going over some sample queries together. We may not go through all of
 First thing first, please:
 
 1. In Kibana, click on the kibana icon.
-![kibanaicon](/Labs/images/kibana_logo.png)
-2. Click on add sample data
-![sampledata](/Labs/images/addsampledata.png)
-3. Choose 
-![sampledata](/Labs/images/sampleweblog)
+
+![kibanaicon](/Labs/images/kibana_logo.png width="200")
+
+2. Click on Load a data set and a Kibana dashboard under Add sample data
+
+![sampledata](/Labs/images/addsampledata.png width="200")
+
+3. Click on Add data in the Sample Web Log pane
+
+![sampledata](/Labs/images/sampleweblog.png width="200")
+
+4. Go to Dev Tools
+![sampledata](/Labs/images/dev_tools.png width="200")
+
+5. Copy and paste the following into Dev Tools Console
 
 ```
 # see what indices are on the cluster

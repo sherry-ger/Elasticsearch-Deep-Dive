@@ -26,6 +26,7 @@ First thing first, please:
 ![sampledata](/Labs/images/sampleweblog.png)
 
 4. Go to Dev Tools
+
 ![sampledata](/Labs/images/dev_tools.png)
 
 5. Copy and paste the following into Dev Tools Console

@@ -93,11 +93,11 @@ Let's take a look at what we have done so far.
 
 1. Go to Setting on the upper right corner and click on Machine Info.
 
-<img src="/Labs/images/MachineInfo.png" width="400" height="250">
+<img src="/Labs/images/MachineInfo.png" width="400">
 
 2. Copy the Public DNS. 
 
-<img src="/Labs/images/RemoteIP.png" width="400" height="250">
+<img src="/Labs/images/RemoteIP.png" width="400">
 
 3. Paste the DNS into a browser, add the port number for kibana `:5601` and hit enter.
 4. Go to the dashboards.

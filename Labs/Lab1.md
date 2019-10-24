@@ -69,8 +69,8 @@ You should see nginx, elasticsearch, and system in the `enabled` section.
     # Set custom paths for the log files. If left empty, 
     # Filebeat will choose the paths depending on your OS.
     var.paths:
-     - /home/ubuntu/elastic/elasticsearch-7.4.0/logs/*.log # Plain text logs
-     - /home/ubuntu/elastic/elasticsearch-7.4.0/logs/*_server.json  # JSON logs
+     - /home/ubuntu/elastic/elasticsearch-7.4.1/logs/*.log
+     - /home/ubuntu/elastic/elasticsearch-7.4.1/logs/*_server.json
 ```
 Please note, you only need to copy and paste the section starting from `var.paths`. Be sure to check the lines are pasted correctly. The yml file is very picky.  Use keyboard control o to save the file and keyboard control x to exit.  
 8.  We will do the same for nginx.yml `nano modules.d/nginx.yml`

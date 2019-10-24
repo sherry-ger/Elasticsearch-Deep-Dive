@@ -21,7 +21,7 @@ Please follow these directions to create the jobs and we will take a look at the
 
 5. Click on Create new job button
 
-<img src="/Labs/images/createnewjob.png" width="600">
+<img src="/Labs/images/createnewjob.png" width="800">
 
 6. Select on filebeat-*
 

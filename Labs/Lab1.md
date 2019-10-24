@@ -16,8 +16,6 @@ The configuration file is located in the `config` directory.  It is called conve
 
 1. Click on the My lab button on the left if you have not done so.
 
-![My Lab](/Labs/images/virtual_classroom_user_guide_lab-terminal.png)
-
 <img src="/Labs/images/virtual_classroom_user_guide_lab-terminal.png" alt="virtual_class" width="500" height="300">
 
 2. When the terminal comes up, you should be at `/home/ubuntu`
@@ -95,24 +93,28 @@ Let's take a look at what we have done so far.
 
 1. Go to Setting on the upper right corner and click on Machine Info.
 
-![Machine Info](/Labs/images/MachineInfo.png)
+<img src="/Labs/images/MachineInfo.png" width="400" height="250">
 
 2. Copy the Public DNS. 
 
-![Public DNS](/Labs/images/RemoteIP.png)
+<img src="/Labs/images/RemoteIP.png" width="400" height="250">
 
 3. Paste the DNS into a browser, add the port number for kibana `:5601` and hit enter.
 4. Go to the dashboards.
 
-![dashboards](/Labs/images/dashboards.png)
+<img src="/Labs/images/dashboards.png" width="400" height="250">
+
 5. Type in `metricbeat system` in the search bar and hit enter.
 6. Select `[Metricbeat System]` ECS Overview
 7. Click on Dashboards to go back.
-![dashboards1](/Labs/images/dashboards1.png)
+
+<img src="/Labs/images/dashboards1.png" width="400" height="250">
+
 8. In the searchbox, type in `filebeat nginx`
 9. Select `[Filebeat Nginx] Overview ECS`
 10. Be sure to change the date to last 1 year.
-![dashboards2](/Labs/images/dashboard2.png)
+
+<img src="/Labs/images/dashboard2.png" width="400" height="250">
 
 ### Infra and Log UI
 
@@ -120,10 +122,11 @@ Within Kibana, there are two plugins that are dedicated to Infra and Logs.
 
 1. Click on Infrastructure icon to go to the Infra UI.
 
-![InfraUI](/Labs/images/InfraUI.png)
+<img src="/Labs/images/InfraUI.png" width="300" >
 
 2. Click on the host to bring up the pop up menu
-![infraUI1](/Labs/images/infraUI1.png)
+
+<img src="/Labs/images/infraUI1.png" width="500" >
 
 3. Click on View logs to go to the Logs UI or View metrics to go to the Metric UI
 

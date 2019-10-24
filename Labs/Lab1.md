@@ -110,22 +110,22 @@ Let's take a look at what we have done so far.
 <img src="/Labs/images/dashboards.png" width="400">
 
 5. Type in `metricbeat system` in the search bar and hit enter.
-6. Select `[Metricbeat System]` ECS Overview
+6. Select `[Metricbeat System] ECS Overview`
 7. Click on Dashboards to go back.
 
 <img src="/Labs/images/dashboards1.png" width="400">
 
 8. In the searchbox, type in `filebeat nginx`
 9. Select `[Filebeat Nginx] Overview ECS`
-10. Be sure to change the date to last 1 year.
+10. Be sure to change the date to last 1 year and click the Refresh button.
 
 <img src="/Labs/images/dashboard2.png" width="400" height="250">
 
 ### Infra and Log UI
 
-Within Kibana, there are two plugins that are dedicated to Infra and Logs.  
+Within Kibana, there are two plugins that are dedicated to Infrastructure and Logs.  
 
-1. Click on Infrastructure icon to go to the Infra UI.
+1. Click on the Infrastructure icon to go to the Infra UI.
 
 <img src="/Labs/images/InfraUI.png" width="200" >
 

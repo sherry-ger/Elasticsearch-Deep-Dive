@@ -110,7 +110,7 @@ Let's take a look at what we have done so far.
 8. In the searchbox, type in `filebeat nginx`
 9. Select `[Filebeat Nginx] Overview ECS`
 10. Be sure to change the date to last 1 year.
-![dashboards2](/Labs/images/dashboards2.png)
+![dashboards2](/Labs/images/dashboard2.png)
 
 
 

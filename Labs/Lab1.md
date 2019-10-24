@@ -123,6 +123,6 @@ Within Kibana, there are two plugins that are dedicated to Infra and Logs.
 2. Click on the host to bring up the pop up menu
 ![infraUI1](/Labs/images/infraUI1.png)
 
-3. Click on Logs to go to the Logs UI or Metric to go to the Metric UI
+3. Click on View logs to go to the Logs UI or View metrics to go to the Metric UI
 
 This completes Lab1!

@@ -102,13 +102,13 @@ Let's take a look at what we have done so far.
 3. Paste the DNS into a browser, add the port number for kibana `:5601` and hit enter.
 4. Go to the dashboards.
 
-<img src="/Labs/images/dashboards.png" width="400" height="250">
+<img src="/Labs/images/dashboards.png" width="400">
 
 5. Type in `metricbeat system` in the search bar and hit enter.
 6. Select `[Metricbeat System]` ECS Overview
 7. Click on Dashboards to go back.
 
-<img src="/Labs/images/dashboards1.png" width="400" height="250">
+<img src="/Labs/images/dashboards1.png" width="400">
 
 8. In the searchbox, type in `filebeat nginx`
 9. Select `[Filebeat Nginx] Overview ECS`
@@ -122,7 +122,7 @@ Within Kibana, there are two plugins that are dedicated to Infra and Logs.
 
 1. Click on Infrastructure icon to go to the Infra UI.
 
-<img src="/Labs/images/InfraUI.png" width="300" >
+<img src="/Labs/images/InfraUI.png" width="200" >
 
 2. Click on the host to bring up the pop up menu
 

@@ -6,7 +6,6 @@
 * Setup Kibana
 * Deploy Metricbeat to ingest system metrics to Elasticsearch
 * Deploy Filebeat to ingest nginx logs, system logs, and elasticsearch logs
-* Deploy Auditbeat to ingest linux security events
 * Validate data in Kibana
 
 ### Setup Elasticsearch
@@ -73,7 +72,7 @@ You should see nginx, elasticsearch, and system in the `enabled` section.
      - /home/ubuntu/elastic/elasticsearch-7.4.0/logs/*.log # Plain text logs
      - /home/ubuntu/elastic/elasticsearch-7.4.0/logs/*_server.json  # JSON logs
 ```
-Please note, you only need to copy and paste the section starting from `var.paths`.  Use keyboard control o to save the file and keyboard control x to exit.  
+Please note, you only need to copy and paste the section starting from `var.paths`. Be sure to check the lines are pasted correctly. The yml file is very picky.  Use keyboard control o to save the file and keyboard control x to exit.  
 8.  We will do the same for nginx.yml `nano modules.d/nginx.yml`
 ```
 - module: nginx
@@ -87,4 +86,31 @@ Please note, you only need to copy and paste the section starting from `var.path
 ```
 Please note, you only need to copy and paste the section starting from var.paths. Again, use keyboard control o to save the file and keyboard control x to exit.  
 9. Finally, we are ready to start filebeat `./filebeat -e`
+
+### Validate the data in Kibana.
+
+Let's take a look at what we have done so far.
+
+1. Go to Setting on the upper right corner and click on Machine Info.
+
+![Machine Info](/Labs/images/MachineInfo.png)
+
+2. Copy the Public DNS. 
+
+![Public DNS](/Labs/images/RemoteIP.png)
+
+3. Paste the DNS into a browser, add the port number for kibana `:5601` and hit enter.
+4. Go to the dashboards.
+
+![dashboards](/Labs/images/dashboards.png)
+5. Type in `metricbeat system` in the search bar and hit enter.
+6. Select `[Metricbeat System]` ECS Overview
+7. Click on Dashboards to go back.
+![dashboards1](/Labs/images/dashboards1.png)
+8. In the searchbox, type in `filebeat nginx`
+9. Select `[Filebeat Nginx] Overview ECS`
+10. Be sure to change the date to last 1 year.
+![dashboards2](/Labs/images/dashboards2.png)
+
+
 

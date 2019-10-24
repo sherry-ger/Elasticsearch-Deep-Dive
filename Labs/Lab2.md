@@ -21,7 +21,7 @@ First thing first, please:
 
 <img src="/Labs/images/addsampledata.png" width="400">
 
-3. Click on Add data in the Sample Web Log pane
+3. Click on Add data in the Sample Web Logs pane
 
 <img src="/Labs/images/sampleweblog.png" width="400">
 

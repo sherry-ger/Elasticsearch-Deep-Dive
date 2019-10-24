@@ -18,6 +18,8 @@ The configuration file is located in the `config` directory.  It is called conve
 
 ![My Lab](/Labs/images/virtual_classroom_user_guide_lab-terminal.png)
 
+<img src="/Labs/images/virtual_classroom_user_guide_lab-terminal.png" alt="virtual_class" width="200" height="100">
+
 2. When the terminal comes up, you should be at `/home/ubuntu`
 3. `cd elastic/elasticsearch-7.4.1/`
 4. To start Elasticsearch, please run `bin/elasticsearch`

@@ -15,18 +15,18 @@ First thing first, please:
 
 1. In Kibana, click on the kibana icon.
 
-![kibanaicon](/Labs/images/kibana_logo.png  =200x100)
+![kibanaicon](/Labs/images/kibana_logo.png)
 
 2. Click on Load a data set and a Kibana dashboard under Add sample data
 
-![sampledata](/Labs/images/addsampledata.png =200x100)
+![sampledata](/Labs/images/addsampledata.png)
 
 3. Click on Add data in the Sample Web Log pane
 
-![sampledata](/Labs/images/sampleweblog.png =200x100)
+![sampledata](/Labs/images/sampleweblog.png)
 
 4. Go to Dev Tools
-![sampledata](/Labs/images/dev_tools.png =200x100)
+![sampledata](/Labs/images/dev_tools.png)
 
 5. Copy and paste the following into Dev Tools Console
 

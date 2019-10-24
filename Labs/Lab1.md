@@ -61,7 +61,9 @@ We will set up filebeat, enable the nginx, elasticsearch, and the system modules
 You should see nginx, elasticsearch, and system in the `enabled` section.
 
 5.  We will have to tell the modules where to find the log files. Typically, there are default locations filebeat will look automatically.  However, for us, the logs are not at their normal location, the `/var/log/` directory except for the system log or syslog.
+
 6. I use nano as my editor `nano modules.d/elasticsearch.yml`
+
 7. In the `elasticsearch.yml` file, please set the `var.paths` under the Server logs section
 
 ```
@@ -74,6 +76,7 @@ You should see nginx, elasticsearch, and system in the `enabled` section.
      - /home/ubuntu/elastic/elasticsearch-7.4.1/logs/*_server.json
 ```
 Please note, you only need to copy and paste the section starting from `var.paths`. Be sure to check the lines are pasted correctly. The yml file is very picky.  Use keyboard control o to save the file and keyboard control x to exit.  
+
 8.  We will do the same for nginx.yml `nano modules.d/nginx.yml`
 ```
 - module: nginx

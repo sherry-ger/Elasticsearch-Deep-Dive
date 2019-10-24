@@ -19,7 +19,7 @@ Please follow these directions to create the jobs and we will take a look at the
 
 <img src="/Labs/images/ML.png" width="300">
 
-5. Click on Create new job button
+5. Click on the Create new job button
 
 <img src="/Labs/images/createnewjob.png" width="800">
 

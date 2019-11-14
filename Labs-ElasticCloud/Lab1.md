@@ -81,7 +81,7 @@ This is where you can find the URLs for Elasticsearch, Kibana, and APM.
 
 15.  Click on **<code>Launch</code></strong> under Kibana to launch it in a new tab.  Login with the username <strong><code>elastic</code></strong> and your password (this is the password you copied in Step 13).
 
-<img src="/Labs-ElasticCloud/images/img16.png" alt="virtual_class" width="300" height="200">
+<img src="/Labs-ElasticCloud/images/img16.png" alt="virtual_class" width="250" height="200">
 
 **_[Note: If you forgot to copy your password earlier, you can always reset it to get a new password under the Security section of your deployment]_**
 

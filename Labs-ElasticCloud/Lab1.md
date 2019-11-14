@@ -56,7 +56,7 @@ _Corporate email servers have blocked the cloud trial emails, a non-corporate em
 
 <img src="/Labs-ElasticCloud/images/img10.png" alt="virtual_class" width="500" height="300">
 
-12.  Turn on **<code>Machine Learning </code></strong>by clicking <strong><code>Enable</code></strong>.
+12.  Turn on <code>Machine Learning</code></strong> by clicking <strong><code>Enable</code></strong>.
 
 <img src="/Labs-ElasticCloud/images/img11.png" alt="virtual_class" width="400" height="150">
 
@@ -64,11 +64,11 @@ Your cluster’s Architecture should look similar to this. Notice that APM serve
 
 <img src="/Labs-ElasticCloud/images/img12.png" alt="virtual_class" width="500" height="500">
 
-13.  Click **<code>Create Cluster</code></strong>. Your cluster will begin to spin up.  It takes between 3 - 6 minutes to complete.
+13.  Click <code>Create Cluster</code></strong>. Your cluster will begin to spin up.  It takes between 3 - 6 minutes to complete.
 
 <img src="/Labs-ElasticCloud/images/img13.png" alt="virtual_class" width="300" height="50">
 
-Please copy** Cloud ID, username, **auto generated** password, **and** APM Server secret token **for later use. Please paste it into a text editor of your choice for now.  \
+Please copy **Cloud ID, username, auto generated password**. Please paste it into a text editor of your choice for now.  \
 
 <img src="/Labs-ElasticCloud/images/img14.png" alt="virtual_class" width="600" height="300">
 

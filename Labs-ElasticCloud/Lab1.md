@@ -24,7 +24,7 @@ Visit [https://cloud.elastic.co](https://cloud.elastic.co) and click “Sign up 
 _Occasionally we have seen issues with browsers - usually email not showing up. If it’s not going the way as the lab points out - please try to use another browser._
 _Corporate email servers have blocked the cloud trial emails, a non-corporate email may do the trick_
 
-4. Log in and create give your account a strong password.
+4. Log in and create your account a strong password.
 
 <img src="/Labs-ElasticCloud/images/img4.png" alt="virtual_class" width="300" height="200">
 

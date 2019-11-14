@@ -11,7 +11,7 @@
 
 Visit [https://cloud.elastic.co](https://cloud.elastic.co) and click “Sign up now”
 
-<img src="/Labs-ElasticCloud/images/img1.png" alt="virtual_class" width="400" height="300">
+<img src="/Labs-ElasticCloud/images/img1.png" alt="virtual_class">
 
 2. Enter your business email (no credit card is required)
 

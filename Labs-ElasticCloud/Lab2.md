@@ -33,7 +33,6 @@ We will set up filebeat, enable the nginx, elasticsearch, and the system modules
 
 ```
 ./filebeat modules enable nginx
-./filebeat modules enable elasticsearch
 ./filebeat modules enable system
 ```
 
@@ -43,7 +42,7 @@ We will set up filebeat, enable the nginx, elasticsearch, and the system modules
 ./filebeat modules list
 ```
 
-You should see nginx, elasticsearch, and system in the `enabled` section.
+You should see nginx and system in the `enabled` section.
 
 5.  We will have to tell the modules where to find the log files. Typically, there are default locations filebeat will look automatically.  However, for us, the logs are not at their normal location, the `/var/log/` directory except for the system log or syslog.
 
@@ -60,7 +59,7 @@ You should see nginx, elasticsearch, and system in the `enabled` section.
      - /home/ubuntu/data/*.log
 ```
 
-Please note, you only need to copy and paste the section starting from var.paths. Again, use `keyboard control o` to save the file and `keyboard control x` to exit.  
+Please note, you only need to edit the section starting with `var.paths`.  
 
 4. Use your favorite text editor to open `filebeat.yml`, replace `cloud.id` and `cloud.auth` with the values you have saved earlier, and save the file.
 

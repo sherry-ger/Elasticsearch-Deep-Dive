@@ -62,15 +62,15 @@ _Corporate email servers have blocked the cloud trial emails, a non-corporate em
 
 Your cluster’s Architecture should look similar to this. Notice that APM server is part of the deployment and hosted for use as well.
 
-<img src="/Labs-ElasticCloud/images/img12.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img12.png" alt="virtual_class" width="500" height="600">
 
 13.  Click **<code>Create Cluster</code></strong>. Your cluster will begin to spin up.  It takes between 3 - 6 minutes to complete.
 
-<img src="/Labs-ElasticCloud/images/img14.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img13.png" alt="virtual_class" width="300" height="200">
 
 Please copy** Cloud ID, username, **auto generated** password, **and** APM Server secret token **for later use. Please paste it into a text editor of your choice for now.  \
 
-<img src="/Labs-ElasticCloud/images/img15.png" alt="virtual_class" width="500" height="400">
+<img src="/Labs-ElasticCloud/images/img14.png" alt="virtual_class" width="300" height="200">
 
 14.  When the cluster is ready, select your deployment in the top left, under **Deployments**. Scroll down to get used to having all information about your deployment at a single place.
 

@@ -66,15 +66,15 @@ Your cluster’s Architecture should look similar to this. Notice that APM serve
 
 13.  Click **<code>Create Cluster</code></strong>. Your cluster will begin to spin up.  It takes between 3 - 6 minutes to complete.
 
-<img src="/Labs-ElasticCloud/images/img13.png" alt="virtual_class" width="300" height="200">
+<img src="/Labs-ElasticCloud/images/img13.png" alt="virtual_class" width="300" height="100">
 
 Please copy** Cloud ID, username, **auto generated** password, **and** APM Server secret token **for later use. Please paste it into a text editor of your choice for now.  \
 
-<img src="/Labs-ElasticCloud/images/img14.png" alt="virtual_class" width="300" height="200">
+<img src="/Labs-ElasticCloud/images/img14.png" alt="virtual_class" width="600" height="300">
 
 14.  When the cluster is ready, select your deployment in the top left, under **Deployments**. Scroll down to get used to having all information about your deployment at a single place.
 
-<img src="/Labs-ElasticCloud/images/img16.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img15.png" alt="virtual_class" width="500" height="300">
 
 
 This is where you can find the URLs for Elasticsearch, Kibana, and APM. 

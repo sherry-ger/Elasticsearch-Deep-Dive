@@ -11,7 +11,7 @@
 
 Visit [https://cloud.elastic.co](https://cloud.elastic.co) and click “Sign up now”
 
-<img src="/Labs-ElasticCloud/images/img1.png" alt="virtual_class" width="400" height="300">
+<img src="/Labs-ElasticCloud/images/img1.png" alt="virtual_class" width="500" height="200">
 
 2. Enter your business email (no credit card is required)
 
@@ -19,14 +19,14 @@ Visit [https://cloud.elastic.co](https://cloud.elastic.co) and click “Sign up 
 
 3. Check your email to verify your account. (sometimes it may take a few minutes before email shows up in inbox)
 
-<img src="/Labs-ElasticCloud/images/img3.png" alt="virtual_class" width="300" height="200">
+<img src="/Labs-ElasticCloud/images/img3.png" alt="virtual_class" width="350" height="300">
 
-*   _Occasionally we have seen issues with browsers - usually email not showing up. If it’s not going the way as the lab points out - please try to use another browser. _
-*   _Corporate email servers have blocked the cloud trial emails, a non-corporate email may do the trick]_
+_Occasionally we have seen issues with browsers - usually email not showing up. If it’s not going the way as the lab points out - please try to use another browser._
+_Corporate email servers have blocked the cloud trial emails, a non-corporate email may do the trick]_
 
 4. Log in and create give your account a strong password.
 
-<img src="/Labs-ElasticCloud/images/img4.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img4.png" alt="virtual_class" width="300" height="200">
 
 5.  You should now be looking at the Welcome Screen for your trial account.  Click “Create deployment”.
 
@@ -34,27 +34,27 @@ Visit [https://cloud.elastic.co](https://cloud.elastic.co) and click “Sign up 
 
 6.  Give your deployment a name. 
 
-<img src="/Labs-ElasticCloud/images/img6.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img6.png" alt="virtual_class" width="350" height="150">
 
 7.   You have the choice here to pick the cloud platform and region of your choice. For the labs let the default region be the pick. 
 
-<img src="/Labs-ElasticCloud/images/img7.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img7.png" alt="virtual_class" width="700" height="300">
 
 8.  Pick the latest version of Elastic.
 
-<img src="/Labs-ElasticCloud/images/img8.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/SetupDeployment.png" alt="virtual_class" width="500" height="200">
 
 9.  Select the I/O Optimized template
 
-<img src="/Labs-ElasticCloud/images/img9.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img8.png" alt="virtual_class" width="700" height="300">
 
 10.  Click “Customize deployment”.  We want to make a few more changes before creating the deployment.
 
-<img src="/Labs-ElasticCloud/images/img10.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img9.png" alt="virtual_class" width="500" height="300">
 
 11. You should see 2 Data nodes that will be deployed across 2 zones.  During the trial, you will not be able to change the size of them. If this wasn’t a trial account, changing the size of the ES nodes or the # of nodes is a slider-away!
 
-<img src="/Labs-ElasticCloud/images/img11.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img10.png" alt="virtual_class" width="500" height="300">
 
 12.  Turn on **<code>Machine Learning </code></strong>by clicking <strong><code>Enable</code></strong>.
 

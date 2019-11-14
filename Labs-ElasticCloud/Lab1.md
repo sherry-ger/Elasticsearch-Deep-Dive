@@ -11,15 +11,15 @@
 
 Visit [https://cloud.elastic.co](https://cloud.elastic.co) and click “Sign up now”
 
-<img src="/Labs-ElasticCloud/images/img1.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img1.png" alt="virtual_class" width="400" height="300">
 
 2. Enter your business email (no credit card is required)
 
-<img src="/Labs-ElasticCloud/images/img2.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img2.png" alt="virtual_class" width="300" height="200">
 
 3. Check your email to verify your account. (sometimes it may take a few minutes before email shows up in inbox)
 
-<img src="/Labs-ElasticCloud/images/img4.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img3.png" alt="virtual_class" width="300" height="200">
 
 *   _Occasionally we have seen issues with browsers - usually email not showing up. If it’s not going the way as the lab points out - please try to use another browser. _
 *   _Corporate email servers have blocked the cloud trial emails, a non-corporate email may do the trick]_

@@ -74,7 +74,7 @@ Please copy** Cloud ID, username, **auto generated** password, **and** APM Serve
 
 14.  When the cluster is ready, select your deployment in the top left, under **Deployments**. Scroll down to get used to having all information about your deployment at a single place.
 
-<img src="/Labs-ElasticCloud/images/img15.png" alt="virtual_class" width="500" height="200">
+<img src="/Labs-ElasticCloud/images/img15.png" alt="virtual_class" width="400" height="150">
 
 
 This is where you can find the URLs for Elasticsearch, Kibana, and APM. 
@@ -89,5 +89,3 @@ This is where you can find the URLs for Elasticsearch, Kibana, and APM.
 
 That’s it for this lab! You have a deployment now ready to start ingesting and working with the data. 
 
-
-<!-- Docs to Markdown version 1.0β17 -->

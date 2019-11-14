@@ -79,7 +79,7 @@ Please copy **Cloud ID, username, auto generated password**. Please paste it int
 
 This is where you can find the URLs for Elasticsearch, Kibana, and APM. 
 
-15.  Click on **<code>Launch</code></strong> under Kibana to launch it in a new tab.  Login with the username <strong><code>elastic</code></strong> and your password (this is the password you copied in Step 13).
+15.  Click on <code>Launch</code></strong> under Kibana to launch it in a new tab.  Login with the username <strong><code>elastic</code></strong> and your password (this is the password you copied in Step 13).
 
 <img src="/Labs-ElasticCloud/images/img16.png" alt="virtual_class" width="250" height="200">
 

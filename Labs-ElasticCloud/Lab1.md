@@ -58,15 +58,15 @@ _Corporate email servers have blocked the cloud trial emails, a non-corporate em
 
 12.  Turn on **<code>Machine Learning </code></strong>by clicking <strong><code>Enable</code></strong>.
 
-<img src="/Labs-ElasticCloud/images/img11.png" alt="virtual_class" width="400" height="200">
+<img src="/Labs-ElasticCloud/images/img11.png" alt="virtual_class" width="400" height="150">
 
 Your cluster’s Architecture should look similar to this. Notice that APM server is part of the deployment and hosted for use as well.
 
-<img src="/Labs-ElasticCloud/images/img12.png" alt="virtual_class" width="500" height="600">
+<img src="/Labs-ElasticCloud/images/img12.png" alt="virtual_class" width="500" height="500">
 
 13.  Click **<code>Create Cluster</code></strong>. Your cluster will begin to spin up.  It takes between 3 - 6 minutes to complete.
 
-<img src="/Labs-ElasticCloud/images/img13.png" alt="virtual_class" width="300" height="100">
+<img src="/Labs-ElasticCloud/images/img13.png" alt="virtual_class" width="300" height="50">
 
 Please copy** Cloud ID, username, **auto generated** password, **and** APM Server secret token **for later use. Please paste it into a text editor of your choice for now.  \
 
@@ -74,18 +74,18 @@ Please copy** Cloud ID, username, **auto generated** password, **and** APM Serve
 
 14.  When the cluster is ready, select your deployment in the top left, under **Deployments**. Scroll down to get used to having all information about your deployment at a single place.
 
-<img src="/Labs-ElasticCloud/images/img15.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img15.png" alt="virtual_class" width="500" height="200">
 
 
 This is where you can find the URLs for Elasticsearch, Kibana, and APM. 
 
 15.  Click on **<code>Launch</code></strong> under Kibana to launch it in a new tab.  Login with the username <strong><code>elastic</code></strong> and your password (this is the password you copied in Step 13).
 
-<img src="/Labs-ElasticCloud/images/img17.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img16.png" alt="virtual_class" width="500" height="300">
 
 **_[Note: If you forgot to copy your password earlier, you can always reset it to get a new password under the Security section of your deployment]_**
 
-<img src="/Labs-ElasticCloud/images/img18.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img17.png" alt="virtual_class" width="500" height="300">
 
 That’s it for this lab! You have a deployment now ready to start ingesting and working with the data. 
 

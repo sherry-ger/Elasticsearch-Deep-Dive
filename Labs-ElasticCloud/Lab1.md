@@ -46,11 +46,11 @@ _Corporate email servers have blocked the cloud trial emails, a non-corporate em
 
 9.  Select the I/O Optimized template
 
-<img src="/Labs-ElasticCloud/images/img8.png" alt="virtual_class" width="700" height="300">
+<img src="/Labs-ElasticCloud/images/img8.png" alt="virtual_class" width="800" height="300">
 
 10.  Click “Customize deployment”.  We want to make a few more changes before creating the deployment.
 
-<img src="/Labs-ElasticCloud/images/img9.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img9.png" alt="virtual_class" width="400" height="200">
 
 11. You should see 2 Data nodes that will be deployed across 2 zones.  During the trial, you will not be able to change the size of them. If this wasn’t a trial account, changing the size of the ES nodes or the # of nodes is a slider-away!
 
@@ -58,11 +58,11 @@ _Corporate email servers have blocked the cloud trial emails, a non-corporate em
 
 12.  Turn on **<code>Machine Learning </code></strong>by clicking <strong><code>Enable</code></strong>.
 
-<img src="/Labs-ElasticCloud/images/img12.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img11.png" alt="virtual_class" width="400" height="200">
 
 Your cluster’s Architecture should look similar to this. Notice that APM server is part of the deployment and hosted for use as well.
 
-<img src="/Labs-ElasticCloud/images/img13.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img12.png" alt="virtual_class" width="500" height="300">
 
 13.  Click **<code>Create Cluster</code></strong>. Your cluster will begin to spin up.  It takes between 3 - 6 minutes to complete.
 
@@ -70,7 +70,7 @@ Your cluster’s Architecture should look similar to this. Notice that APM serve
 
 Please copy** Cloud ID, username, **auto generated** password, **and** APM Server secret token **for later use. Please paste it into a text editor of your choice for now.  \
 
-<img src="/Labs-ElasticCloud/images/img15.png" alt="virtual_class" width="500" height="300">
+<img src="/Labs-ElasticCloud/images/img15.png" alt="virtual_class" width="500" height="400">
 
 14.  When the cluster is ready, select your deployment in the top left, under **Deployments**. Scroll down to get used to having all information about your deployment at a single place.
 
